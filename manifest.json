@@ -6,7 +6,7 @@
  "content_scripts": 
   [
   {
-  "matches": ["https://www.google.lt/*"],
+  "matches": ["https://www.google.com/*"],
   "css": ["main.css"]
   }
   ],
